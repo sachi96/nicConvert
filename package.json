@@ -1,0 +1,15 @@
+{
+  "name": "convert_id",
+  "version": "1.0.0",
+  "description": "This is a demo project of convert old NIC numbers in to new NIC number",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nic_Convert",
+    "Javascript"
+  ],
+  "author": " (Udara Sachinthana & Kushani Chathumi)",
+  "license": "ISC"
+}
