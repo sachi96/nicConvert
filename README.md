@@ -16,6 +16,3 @@ require ("convert-nic");
 convertID("old nic number"); // => "Enter your nic number"
 ```
 
-###### Keywords
-
-**nic** **convert** **javascript**
