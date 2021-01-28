@@ -1,5 +1,5 @@
 {
-  "name": "convert_id",
+  "name": "convert-nic",
   "version": "1.0.0",
   "description": "This is a demo project of convert old NIC numbers in to new NIC number",
   "main": "app.js",
